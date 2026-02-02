@@ -1,3 +1,34 @@
+
+
+Weather-App
+
+Features
+
+🔍 Search Weather by City Name
+Users can enter a city name to get current weather information.
+
+🌦 Real-Time Weather Data
+Fetches live weather data using the OpenWeatherMap API.
+
+🏙 City & Weather Description Display
+Shows the city name and current weather description clearly.
+
+⚛️ Built with React
+Uses React functional components and hooks for UI and logic.
+
+🎨 Styled with Tailwind CSS
+Modern, clean, and utility-first styling using Tailwind CSS.
+
+📱 Responsive Design
+Works smoothly on mobile, tablet, and desktop devices.
+
+🔄 State Management with Context API
+Manages global state efficiently using React Context API.
+
+⚡ Fast & Lightweight UI
+Optimized for quick rendering and smooth user experience.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
